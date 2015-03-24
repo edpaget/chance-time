@@ -1,0 +1,13 @@
+/* some style */
+#transaction-feed {
+    border-right: 1px solid black;
+}
+
+p.description {
+    text-align: center;
+}
+
+p.amount {
+    text-align: right;
+}
+
